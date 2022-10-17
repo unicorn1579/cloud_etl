@@ -1,4 +1,4 @@
-# DE_School
+# Pet Project
 
 ## Project content
 * Directories:
