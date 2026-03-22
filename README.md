@@ -1,5 +1,3 @@
-# Pet Project
-
 ## Project content
 * Directories:
 1. AIRFLOW contains dags and a log file
